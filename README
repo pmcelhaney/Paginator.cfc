@@ -1,6 +1,6 @@
 Paginator.cfc
 
-A simple component that encapsulates all the functions I need to do pagination. A friend asked me if I had any 
-pagination code so I threw it up on Github.
+A simple component that encapsulates the functions I need to do pagination. A friend asked me if I had any 
+pagination code so I threw it up on Github. See index.cfm for some hints on how to use it. 
                                                                                 
 If you found this useful/interesting, please drop me a note: @patrick_mc or <pmcelhaney@gmail.com>.
