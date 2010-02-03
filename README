@@ -1,0 +1,6 @@
+Paginator.cfc
+
+A simple component that encapsulates all the functions I need to do pagination. A friend asked me if I had any 
+pagination code so I threw it up on Github.
+                                                                                
+If you found this useful/interesting, please drop me a note: @patrick_mc or <pmcelhaney@gmail.com>.
